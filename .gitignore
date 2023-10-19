@@ -42,3 +42,5 @@ poetry.lock
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+gitleaks_pre_commit.sh
