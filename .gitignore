@@ -1,0 +1,44 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and logs directory
+logs/
+*.log
+
+# Ignore sensitive or private information (e.g., API keys, configuration files)
+secrets.json
+config.ini
+
+# Ignore database files
+*.db
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python distribution folders
+dist/
+build/
+
+# Ignore pipenv and poetry specific files
+Pipfile
+Pipfile.lock
+pyproject.toml
+poetry.lock
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
